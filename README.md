@@ -42,11 +42,11 @@ https://spele.nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage
-<img src="images/homepage.png" width="375px" alt="homepage">
+<img src="images/homepage.png" width="350px" alt="homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Gamepage
-<img src="images/gamepage.png" width="375px" alt="gamepage">
+<img src="images/gamepage.png" width="350px" alt="gamepage">
  
 </details>
 

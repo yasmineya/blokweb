@@ -1,10 +1,10 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+# Markdown is een simpele manier om HTML te schrijven.  
+# Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
+# Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
+# Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
 
@@ -13,17 +13,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Hi</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Ik ben Yasmine Yakubi
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
-Blauwe piste
+Mijn start niveua is de blauwe piste. Voor dat ik op deze opleiding kwam wist ik nog niks over codering, nu weet ik nog wel het een en het ander maar kan het zijn dat ik veel ben vergeten. Dus wil ik het een en ander weer wat ophelderen.
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+ Mijn keus ligt voorlopig op de focus :Responsive. Later in het proces kan het zijn dat dit in combinatie gaat met surface plane of kan het alleen "surface plane" worden.
  
 </details>
 
@@ -37,15 +36,17 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+link naar de website die ik ga namaken:
+https://spele.nl/
+
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Homepage
+<img src="homepage.png" width="375px" alt="homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Gamepage
+<img src="gamepage.png" width="375px" alt="gamepage">
  
 </details>
 

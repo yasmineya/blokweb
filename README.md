@@ -50,9 +50,8 @@ Gamepage
 <img src="images/gamepage.png" width="350px" alt="gamepage">
  
  oefening:
- <img src="images/oefening.png" width="600px" alt="3 blokken met font oefeningen">
  
- <img width="900" alt="oefening" src="https://user-images.githubusercontent.com/90148749/132607202-ebbff0df-831b-44d3-9bb6-530271406e42.png">
+ <img width="800" alt="oefening" src="https://user-images.githubusercontent.com/90148749/132607202-ebbff0df-831b-44d3-9bb6-530271406e42.png">
 </details>
 
 

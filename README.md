@@ -64,7 +64,7 @@ Gamepage
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/structuur.png" width="350px" alt="breakdown van pagina een">
+<img src="https://i.imgur.com/RQVjjYh.png" width="350px" alt="breakdown van pagina een">
 
 ### dynamisch deel (bijv menu): 
 <img src="images/structuur2.png" width="350px" alt="breakdown van pagina twee">

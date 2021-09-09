@@ -49,7 +49,7 @@ Gamepage
 <img src="images/gamepage.png" width="350px" alt="gamepage">
  
  oefening:
- <img src="images/oefening" width="350px" alt="3 blokken met font oefeningen">
+ <img src="images/oefening.png" width="350px" alt="3 blokken met font oefeningen">
 </details>
 
 

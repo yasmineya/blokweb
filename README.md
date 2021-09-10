@@ -51,10 +51,11 @@ Gamepage
  
  oefening:
  
- <img width="800" alt="oefening" src="https://user-images.githubusercontent.com/90148749/132607202-ebbff0df-831b-44d3-9bb6-530271406e42.png">
+ <img width="800" alt="oefening 3 blokken" src="https://user-images.githubusercontent.com/90148749/132607202-ebbff0df-831b-44d3-9bb6-530271406e42.png">
 </details>
 
-
+ <img width="600" alt="oefening froggy" src="froggy.png">
+</details>
 
 
 
@@ -70,7 +71,6 @@ Gamepage
 <img src="images/structuur2.png" width="350px" alt="breakdown van pagina twee">
 
 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -239,8 +239,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
-
+1. bron 1 typografie youtube video https://www.youtube.com/watch?v=RNakAX3rVVw
+2. bron 2 Handig om onbekende html elementen op te sporen https://www.w3schools.com/ 
+3. bron 3 Met Froggy heb ik flexbox geoefend https://flexboxfroggy.com/#nl 
+4. bron 4 
 </details>

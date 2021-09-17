@@ -84,9 +84,11 @@ Gamepage
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
+Ik vond het leuk om de site steeds meer te zien groeien, de ruimte in de navigatiebar ging moeilijk en grid in de main.
+ <img src="images/homepagecode.png" width="350px" alt="homepage">
+  <img src="images/homepage2.png" width="350px" alt="homepage">
 ### Agenda voor meeting
 samen met je groepje opstellen
 

@@ -1,258 +1,233 @@
+/* CSS Document */
 *, *::after, *::before {
-    box-sizing:border-box;  
-  }
-  
-  :root {
-    --main-color:#333;
-    --background-color:#ccc;
-    
-    --accent-color:white;
-    --accent-background-color:rgba(242 49 46 / .75);
-    --secondary-background-color:rgba(255 217 0 / .75);
-    --shadow-color:rgba(0 0 0 / .5);
-    
-    --white-space:5vw;
-  }
-
-  html{
-    font-family:"Varela Round";
-  }
-  
-  body{
-    background-color: #bee5f5;
-
-    
-  }
-  
-  
-  header{
-    background: linear-gradient(to right, #24ade6, #bee5f5, #a5daf2);
-    display:flex;
-    justify-content: space-around;
-   
-   
-    position:sticky;
-    top:1px;
-    z-index:5;
- 
-    text-shadow: 2px 2px 4px #000000;
-    box-shadow: 10px 4px 10px;
+  box-sizing:border-box;  
 }
 
- #spele{
-
- margin: auto;
-  width: 50%;
+:root {
+  --main-color:#333;
+  --background-color:#ccc;
   
+  --accent-color:white;
+  --accent-background-color:rgba(242 49 46 / .75);
+  --secondary-background-color:rgba(255 217 0 / .75);
+  --shadow-color:rgba(0 0 0 / .5);
+  
+  --white-space:5vw;
+}
+
+html{
+  font-family:"Varela Round";
+}
+
+body{
+  background-color: #bee5f5;
+
+  
+}
+
+
+header{
+  background: linear-gradient(to right, #24ade6, #bee5f5, #a5daf2);
+  display:flex;
+  justify-content: space-around;
+ 
+ 
+  position:sticky;
+  top:1px;
+  z-index:5;
+
+  text-shadow: 2px 2px 4px #000000;
+  box-shadow: 10px 4px 10px;
+}
+
+
+
+
+
+
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 100%;
+  font-size: 21px;
+  color: #ffd100;
+  
+
  }
  
-  
-  nav {
-    display:flex;
-    justify-content: space-evenly;
- 
-    font-size: 21px;
-    color: #ffd100;
-    
+  main ul{
+      list-style:none;
+      list-style-type:none;
 
-   }
-   
-    main ul{
-        list-style:none;
-        list-style-type:none;
-
-    }
+  }
 
 
 
 
 #lingo {
 
-    position:relative;
-    
-  }
-
-  #lingo p {
-
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-
-  #ducks {
-    position:relative;
-  }
-
-  #ducks p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-
-  #gorillas {
-    position:relative;
-  }
-
-  #gorillas p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-
-  #flying {
-    position:relative;
-  }
-
-  #flying p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-  #join {
-    position:relative;
-  }
-
-  #join p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-     list-style-type:none;
-     background-color:var(--accent-background-color);
-     color:var(--accent-color);
-
-  }
-
-  #bubble {
-    position:relative;
-  }
-
-  #bubble p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    list-style-type:none;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-
-  #jetpack{
-    position:relative;
-  }
-
-  #jetpack p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-
-  #pop {
-    position:relative;
-  }
-
-  #pop p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-
-  #fruit {
-    position:relative;
-  }
-
-  #fruit p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-
-  #stealth {
-    position:relative;
-  }
-
-  #stealth p {
-    position: absolute;
-    bottom:0;
-    left: -.5em;
-    margin: 0.3em;
-    padding:.5em;
-    background-color:var(--accent-background-color);
-    color:var(--accent-color);
-  }
-  li {
-
-    border-radius: 50%;
-  }
-
-  section:nth-last-child(4){
-    display: flex;
-    justify-content: space-evenly;
-    }
-
-  section:nth-last-child(3){
-    display: flex;
-    justify-content: space-evenly;
-    }
-
-
-  section:nth-last-child(2){
-    display: flex;
-    justify-content: space-evenly;
-
-
-  }
-  section:nth-last-child(1){
-      display: flex;
-      justify-content: space-evenly;
-
-
-  }
-  footer{
-display: flex;
-justify-content: center;
-  }
-  .palm{
-display: flex;
-justify-content: flex-start;
-  }
-
-  .palm2{
-    display: flex;
-justify-content: center;
-  }
-  .palm3{
-    display: flex;
-justify-content: flex-end;
-  }
+  position:relative;
   
+}
+
+#lingo p {
+
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+
+#ducks {
+  position:relative;
+}
+
+#ducks p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+
+#gorillas {
+  position:relative;
+}
+
+#gorillas p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+
+#flying {
+  position:relative;
+}
+
+#flying p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+#join {
+  position:relative;
+}
+
+#join p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+   list-style-type:none;
+   background-color:var(--accent-background-color);
+   color:var(--accent-color);
+
+}
+
+#bubble {
+  position:relative;
+}
+
+#bubble p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  list-style-type:none;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+
+#jetpack{
+  position:relative;
+}
+
+#jetpack p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+
+#pop {
+  position:relative;
+}
+
+#pop p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+
+#fruit {
+  position:relative;
+}
+
+#fruit p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+
+#stealth {
+  position:relative;
+}
+
+#stealth p {
+  position: absolute;
+  bottom:0;
+  left: -.5em;
+  margin: 0.3em;
+  padding:.5em;
+  background-color:var(--accent-background-color);
+  color:var(--accent-color);
+}
+li {
+
+  border-radius: 50%;
+}
+
+
+  
+
+
+
+
+footer{
+display: flex;
+justify-content: center;
+}
+.palm{
+  display: flex;
+  justify-content: flex-start;
+  width: 200px;
+  height: 40px;
+

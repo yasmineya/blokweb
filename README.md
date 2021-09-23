@@ -117,7 +117,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Voortgang 2 (week 3)
 
 <details>
-<summary>uitwerken voor 2e voortgang</summary>
+<summary>Ik heb de feedback verwerkt en ben aan de slag gegaan met grid en de navigatiebar</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
@@ -143,8 +143,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 </details>
 
-
-
+<img src="spel1.png" width="300px" alt="versie 2">
+<img src="spele2.png" width="300px" alt="versie 3">
 
 
 ## Toegankelijkheidstest (week 4)

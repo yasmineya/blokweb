@@ -143,8 +143,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 </details>
 
-<img src="spel1.png" width="300px" alt="versie 2">
-<img src="spele2.png" width="300px" alt="versie 3">
+<img src="images/spel1.png" width="300px" alt="versie 2">
+<img src="images/spele2.png" width="300px" alt="versie 3">
 
 
 ## Toegankelijkheidstest (week 4)

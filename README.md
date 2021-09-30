@@ -178,7 +178,7 @@ Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorb
 #### Ballon 
 Ik heb een parkingson apparaatje uitgeprobeerd en mijn site genavigeerd. Het was pijnlijk en moeilijk te navigeren. Ik kon geen foto maken, door de trillingen.
 
-
+ <summary> Wat ik heb ontdekt is dat de screenreader per onderdeel teveel opnoemt, zoals sectie img jetpack.</summary>
 
 </details>
 

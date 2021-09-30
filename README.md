@@ -162,7 +162,7 @@ Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorb
 #### brillen
 Met de brillen oefening kan ik me voorstellen om bijvoorbeeld teksten moeilijk te lezen kunnen zijn.
 
-<img src="images/bril.png" width="300px" alt="versie 3">
+<img src="images/bril.png" width="300px" alt="bril oefening">
 
 
 #### elastiekjes 
@@ -172,12 +172,12 @@ Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorb
 
 
 
-<img src="images/elastiek.png" width="300px" alt="versie 2">
+<img src="images/elastiek.png" width="300px" alt="elastiek oefening">
 
 
 
 
-#### Titel nog een bevinding. 
+#### Ballon 
 Ik heb een parkingson apparaatje uitgeprobeerd en mijn site genavigeerd. Het was pijnlijk en moeilijk te navigeren. Ik kon geen foto maken, door de trillingen.
 
 

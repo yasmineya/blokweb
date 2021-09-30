@@ -119,8 +119,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <details>
 <summary>Ik heb de feedback verwerkt en ben aan de slag gegaan met grid en de navigatiebar</summary>
 
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+De navbar heb ik geprobeerd te verbeteren, met de echte logo, een burger menu en search button.
 
 
 ### Agenda voor meeting
@@ -150,33 +149,38 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
-
-### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
-
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
+<summary>toegangkelijkheidstest</summary>
+ 
 #### Titel volgende bevinding. 
 Hier korte omschrijving (met indien nodig een afbeelding)
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+
+### Bevindingen
+Lijst met je bevindingen die in de test naar voren kwamen:
+Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorbeeld 2 handen nodig om simpele taken te doen zoals, shift tab. Dat zou je normaal gesproken met je wijsvinger en middelvinger.
+
+#### brillen
+Met de brillen oefening kan ik me voorstellen om bijvoorbeeld teksten moeilijk te lezen kunnen zijn.
+
+<img src="images/bril.png" width="300px" alt="versie 3">
+
+
+#### elastiekjes 
+
+ 
+Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorbeeld 2 handen nodig om simpele taken te doen zoals, shift tab. Dat zou je normaal gesproken met je wijsvinger en middelvinger doen.
+
+
+
+<img src="images/elastiek.png" width="300px" alt="versie 2">
+
+
 
 
 #### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Ik heb een parkingson apparaatje uitgeprobeerd en mijn site genavigeerd. Het was pijnlijk en moeilijk te navigeren. Ik kon geen foto maken, door de trillingen.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+
 
 </details>
 

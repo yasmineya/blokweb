@@ -149,23 +149,21 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>toegangkelijkheidstest</summary>
+<summary>Door de testen ben ik er achter gekomen dat door een site navigeren soms inderdaad moeilijk kan zijn voor mensen met een beperking.</summary>
  
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
 
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorbeeld 2 handen nodig om simpele taken te doen zoals, shift tab. Dat zou je normaal gesproken met je wijsvinger en middelvinger.
 
-#### brillen
+#### Brillen
 Met de brillen oefening kan ik me voorstellen om bijvoorbeeld teksten moeilijk te lezen kunnen zijn.
 
 <img src="images/bril.png" width="300px" alt="bril oefening">
 
 
-#### elastiekjes 
+#### Elastiekjes 
 
  
 Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorbeeld 2 handen nodig om simpele taken te doen zoals, shift tab. Dat zou je normaal gesproken met je wijsvinger en middelvinger doen.

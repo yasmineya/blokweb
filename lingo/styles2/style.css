@@ -1,0 +1,129 @@
+/* CSS Document */
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+:root {
+  --main-color:#333;
+
+  --background-color: #cccccc;
+  
+  --accent-color:white;
+  --accent-background-color:rgba(255 255 255 );
+  --secondary-background-color:rgba(26 26 26 / .75);
+  --shadow-color:rgba(0 0 0 / .5);
+}
+
+
+html{
+  font-family:"Quicksand500,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,ui-sans-serif,sans-serif";
+}
+  section ul li a{ list-style: none;
+ }
+
+input{
+border:none;
+padding:.5em 1em;
+border-radius:2em;
+
+
+}
+input::placeholder{
+
+
+}
+input:focus{
+
+  outline:none;
+  border:1px solid crimson;
+ 
+}
+
+input[type="search"] {
+
+  padding-left: 3em;
+  ;
+
+  
+}
+
+input:hover{
+
+  background-color: var(--background-color);
+}
+
+body{
+  background-color: #bee5f5;
+  margin:0;
+  
+ }
+
+header{
+  background: linear-gradient(0deg,#5dcfdd,#67b5f4);
+  position:sticky;
+  padding: auto;
+  top:0;
+  z-index:2;
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+
+header a{
+  display:flex;
+  justify-content: space-between;
+
+  padding: .5em;
+  display:flex
+ }
+ 
+ 
+  header a:nth-of-type(1){
+justify-content: flex-start;
+
+}
+
+header a:nth-of-type(2){ 
+  height: 3em;
+  align-self: center;
+}
+
+header a:nth-of-type(3){
+justify-content: flex-end;
+height: 2.75em;
+
+align-self: center;
+
+  
+}
+
+section:nth-of-type(2):hover span {
+  background-color:var(--accent-background-color);
+  border-radius:2em;
+  color:var(--accent-color);
+
+  color:white;
+  cursor:pointer;
+ 
+}
+
+
+nav{
+display: flex;
+justify-content: space-between;
+
+}
+a{
+  text-decoration: none;
+  color: black;
+  }
+  
+  a:visited{
+  text-decoration: none;
+  color: black;
+   }
+p{
+display: flex;
+text-align: right;
+  }

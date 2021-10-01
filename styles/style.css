@@ -14,8 +14,39 @@
   --shadow-color:rgba(0 0 0 / .5);
 }
 
+
 html{
   font-family:"Quicksand500,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,ui-sans-serif,sans-serif";
+}
+input{
+border:none;
+padding:.5em 1em;
+border-radius:2em;
+
+/* Ik ging bij de input maar een beetje spelen */
+}
+input::placeholder{
+
+
+}
+input:focus{
+
+  outline:none;
+  border:1px solid crimson;
+ 
+}
+
+input[type="search"] {
+
+  padding-left: 3em;
+  ;
+
+  
+}
+
+input:hover{
+
+  background-color: var(--background-color);
 }
 
 body{
@@ -34,14 +65,7 @@ header{
   flex-direction: column;
  
 }
-input {
-  
-display: hidden;
-}
-input:hover{
-display: none;
 
-}
 
 header a{
   display:flex;
@@ -93,6 +117,7 @@ img {
 
 main{
   padding:1.25rem 1.5rem;
+
 
 }
 
@@ -151,33 +176,41 @@ main a{
   
 }
 
-main span:last-child(1){ 
-
-  animation-name: lingoslide;
-}
-
-@keyframes lingoslide {
-  }
 
 main a:hover{
 border-color: orange;
-  color: orange;
+
+color: orange;
 
 }
+main a:focus{
 
-main a span:hover{
+ 
+  color: red;
+}
+input:focus {
+  background-color: yellow;
+}
 
+main a img,span:hover{
+  
   box-shadow: orange;
+  
 
 }
-
+span:hover{
+  background-color: orange;
+}
 
 main a:active{
 
   transform: scale(1.5);
   cursor: pointer;
   padding: 2em;
+  
  
 }
+
+
 
 

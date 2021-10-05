@@ -54,7 +54,7 @@ Gamepage
  <img width="800" alt="oefening 3 blokken" src="https://user-images.githubusercontent.com/90148749/132607202-ebbff0df-831b-44d3-9bb6-530271406e42.png">
 </details>
 
- <img width="600" alt="oefening froggy" src="froggy.png">
+ <img width="600" alt="oefening froggy" src="images/froggy.png">
 </details>
 
 

@@ -155,10 +155,22 @@ Ik heb een parkingson apparaatje uitgeprobeerd en mijn site genavigeerd. Het was
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>uitwerken voor 3e voortgang</summary>
+<summary>3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het was lastig om de burger menu te laten uitklappen.
+ 
+ <img src="images/burger1.png" width="250px" alt="bril oefening">
+
+ <img src="images/burger2.png" width="250px" alt="bril oefening">
+ 
+ Dit zijn de schermen tot nu toe.
+ 
+ <img src="images/scherm1.png" width="250px" alt="bril oefening">
+
+ <img src="images/scherm2.png" width="250px" alt="bril oefening">
+
+
 
 
 
@@ -197,5 +209,8 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 1. bron 1 typografie youtube video https://www.youtube.com/watch?v=RNakAX3rVVw
 2. bron 2 Handig om onbekende html elementen op te sporen https://www.w3schools.com/ 
 3. bron 3 Met Froggy heb ik flexbox geoefend https://flexboxfroggy.com/#nl 
-4. bron 4 
+4. bron 4 star rating https://codepen.io/hesguru/pen/BaybqXv?editors=0110
+5. bron 5 hover info https://www.w3schools.com/howto/howto_css_transition_hover.asp
+
+
 </details>

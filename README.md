@@ -160,6 +160,7 @@ Ik heb een parkingson apparaatje uitgeprobeerd en mijn site genavigeerd. Het was
 ### Stand van zaken
 Het was lastig om de burger menu te laten uitklappen.
  
+
  <img src="images/burger1.png" width="250px" alt="bril oefening">
 
  <img src="images/burger2.png" width="250px" alt="bril oefening">
@@ -188,10 +189,20 @@ Het was lastig om de burger menu te laten uitklappen.
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Eindresultaat is responsive met een aantal surface plane faciliteiten.
+ Het was moeilijk om te werken met nth of type want ik kreeg veel errors of het werkte niet mee, dus maakte ik er id's/classes van.
+ 
+Eindresultaat:
 
-### Screenshot(s)
-
-hier screenshot(s) van je eindresultaat
+ <img src="images/pagina1.png" width="250px" alt="afbeelding 1 eindopdracht">
+ 
+ <img src="images/pagina2.png" width="250px" alt="afbeelding 2 eindopdracht">
+ 
+ <img src="images/pagina3.png" width="250px" alt="afbeelding 3 eindopdracht">
+ 
+ <img src="images/pagina4.png" width="250px" alt="afbeelding 4 eindopdracht">
+ 
+ <img src="images/pagina5.png" width="250px" alt="afbeelding 5 eindopdracht">
 
 </details>
 
@@ -202,15 +213,16 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1 typografie youtube video https://www.youtube.com/watch?v=RNakAX3rVVw
+1. bron 1 typografie geofend met dit youtube filmpje https://www.youtube.com/watch?v=RNakAX3rVVw
 2. bron 2 Handig om onbekende html elementen op te sporen https://www.w3schools.com/ 
 3. bron 3 Met Froggy heb ik flexbox geoefend https://flexboxfroggy.com/#nl 
-4. bron 4 star rating https://codepen.io/hesguru/pen/BaybqXv?editors=0110
-5. bron 5 hover info https://www.w3schools.com/howto/howto_css_transition_hover.asp
+4  bron 4 Met Grid Garden heb ik grid geoefend https://cssgridgarden.com/#nl
+5. bron 5 star rating van https://codepen.io/hesguru/pen/BaybqXv?editors=0110
+6. bron 5 hover info https://www.w3schools.com/howto/howto_css_transition_hover.asp
+7. bron 7 jump animatie idee  https://codepen.io/shooft/pen/GREjemg
+8. bron 8 font in css toevoegen https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website
 
 
 </details>

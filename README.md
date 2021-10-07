@@ -61,7 +61,7 @@ Gamepage
 
 ## Breakdownschets (week 1)
 
-<details>
+<details> 
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### pagina een: 
@@ -72,7 +72,8 @@ Gamepage
 
 
 
-</details>
+</details>*open*
+
 
 
 
@@ -81,7 +82,7 @@ Gamepage
 ## Voortgang 1 (week 2)
 
 <details>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>1e voortgang</summary>
 
 ### Stand van zaken
 
@@ -100,8 +101,8 @@ Ik vond het leuk om de site steeds meer te zien groeien, de ruimte in de navigat
 ## Voortgang 2 (week 3)
 
 <details>
-<summary>Ik heb de feedback verwerkt en ben aan de slag gegaan met grid en de navigatiebar</summary>
-
+<summary>Voortgang 2</summary>
+Ik heb de feedback verwerkt en ben aan de slag gegaan met grid en de navigatiebar
 De navbar heb ik geprobeerd te verbeteren, met de echte logo, een burger menu en search button.
 
 

@@ -127,7 +127,7 @@ Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorb
 #### Brillen
 Met de brillen oefening kan ik me voorstellen om bijvoorbeeld teksten moeilijk te lezen kunnen zijn.
 
-<img src="images/bril.png" width="200px" alt="bril oefening">
+<img src="images/bril.jpg" width="200px" alt="bril oefening">
 
 
 #### Elastiekjes 
@@ -137,7 +137,7 @@ Elastiek is moeilijk om met pijltjes te navigeren, en te typen. Je hebt bijvoorb
 
 
 
-<img src="images/elastiek.png" width="200px" alt="elastiek oefening">
+<img src="images/elastiek.jpg" width="200px" alt="elastiek oefening">
 
 
 

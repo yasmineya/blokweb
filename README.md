@@ -61,7 +61,7 @@ Gamepage
 
 ## Breakdownschets (week 1)
 
-<details> 
+<details open> 
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### pagina een: 
@@ -72,7 +72,7 @@ Gamepage
 
 
 
-</details>*open*
+</details>
 
 
 
@@ -81,7 +81,7 @@ Gamepage
 
 ## Voortgang 1 (week 2)
 
-<details>
+<details open>
 <summary>1e voortgang</summary>
 
 ### Stand van zaken
@@ -100,7 +100,7 @@ Ik vond het leuk om de site steeds meer te zien groeien, de ruimte in de navigat
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
 <summary>Voortgang 2</summary>
 Ik heb de feedback verwerkt en ben aan de slag gegaan met grid en de navigatiebar
 De navbar heb ik geprobeerd te verbeteren, met de echte logo, een burger menu en search button.
@@ -115,7 +115,7 @@ De navbar heb ik geprobeerd te verbeteren, met de echte logo, een burger menu en
 
 ## Toegankelijkheidstest (week 4)
 
-<details>
+<details open>
 <summary>Door de testen ben ik er achter gekomen dat door een site navigeren soms inderdaad moeilijk kan zijn voor mensen met een beperking.</summary>
  
 
@@ -155,7 +155,7 @@ Ik heb een parkingson apparaatje uitgeprobeerd en mijn site genavigeerd. Het was
 
 ## Voortgang 3 (week 4)
 
-<details>
+<details open>
 <summary>3e voortgang</summary>
 
 ### Stand van zaken
@@ -185,7 +185,7 @@ Het was lastig om de burger menu te laten uitklappen.
 
 ## Eindgesprek (week 5)
 
-<details>
+<details open>
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken

@@ -19,7 +19,14 @@
         url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
         url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
+@font-face {
+    font-family: 'quicksandlight';
+    src: url('quicksand-variablefont_wght-webfont.woff2') format('woff2'),
+         url('quicksand-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+}
 
 html {
     font-family: " quicksandLight"," MyWebFont","Fallback, sans serif"," Quicksand500","BlinkMacSystemFont-apple-system","Segoe UI";

@@ -20,8 +20,9 @@
         url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
+
 html {
-    font-family: " quicksand, MyWebFont, Fallback, sans serif, Quicksand500,BlinkMacSystemFont-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,ui-sans-serif,sans-serif";
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif"," Quicksand500","BlinkMacSystemFont-apple-system","Segoe UI";
 }
 
 body {
@@ -45,7 +46,7 @@ nav.hoofdmenu {
 /*'lingo' titel*/
 h1 {
     color: #363636;
-    font-family:'quicksand';
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif","BlinkMacSystemFont-apple-system","Segoe UI";
     line-height: 1.125;
     display: flex;
     justify-content: center;
@@ -54,7 +55,7 @@ h1 {
 
 /*populaire spellen tekst*/
 h2{
-    font-family: 'quicksand';
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif","BlinkMacSystemFont-apple-system","Segoe UI";
     font-size: 2em;
     color:var(--main-color);
 }
@@ -94,7 +95,7 @@ main section ul li a h3 {
     padding: 16px 20px;
     color: #4a4a4a;
     justify-content: center;
-    font-family: "Segoe UI";
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif","BlinkMacSystemFont-apple-system","Segoe UI";
     margin:0;
     box-shadow: 1px 2px 6px 2px;
 }
@@ -122,7 +123,7 @@ ul.menunav {
     list-style-type: none;
     color: lightblue;
     text-decoration: none;
-    font-family: "quicksand";
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif","BlinkMacSystemFont-apple-system","Segoe UI";
 }
 .menunav :hover {
     box-shadow: none;
@@ -177,7 +178,7 @@ ul#menu li a, #buttonwalkthrough {
     margin:auto;
     text-transform: uppercase;
     text-decoration: none;
-    font-family: 'quicksand';
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif","BlinkMacSystemFont-apple-system","Segoe UI";
 }
 ul#menu {
     padding: 1em;
@@ -231,15 +232,16 @@ ul#menu li a:active {
     cursor: pointer;
     justify-content: center;
     padding: 1.5em;
-    font-family: 'quicksand';
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif","BlinkMacSystemFont-apple-system","Segoe UI";
 }
 
-/*star rating*/
+/*star rating van internet*/
 .rate {
     height: 46px;
     padding: 0 10px;
     display: flex;
     justify-content: center;
+    flex-direction: row-reverse;
 }
 .rate>input:checked~label {
     color: #ffc700;
@@ -328,7 +330,7 @@ main .driebuttons a:hover {
 
 /*stuk tekst boven buttonwalkthrough*/
 p{
-    font-family: "quicksand";
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif","BlinkMacSystemFont-apple-system","Segoe UI";
     font-weight: lighter;
 }
 
@@ -365,7 +367,7 @@ p{
     font-size: 1em;
     font-weight: 400;
     line-height: 1.5;
-    font-family: 'quicksandlight';
+    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif","BlinkMacSystemFont-apple-system","Segoe UI";;
 }
 /*grid 2e pagina*/
 @media only screen and (min-width: 768px) {

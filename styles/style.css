@@ -29,12 +29,13 @@
 }
 
 html {
-    font-family: " quicksandLight"," MyWebFont","Fallback, sans serif"," Quicksand500","BlinkMacSystemFont-apple-system","Segoe UI";
+    font-family: " quicksandLight"," MyWebFont";
 }
 
 body {
     background-color: #bee5f5;
     margin: 0;
+    font-family: " quicksandLight"," MyWebFont";
 }
 
 /* burger, spele en search*/

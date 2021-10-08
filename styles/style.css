@@ -35,7 +35,10 @@ html {
 body {
     background-color: #bee5f5;
     margin: 0;
-    font-family: " quicksandLight"," MyWebFont";
+    font-family: 'quicksandLight', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+
 }
 
 /* burger, spele en search*/
@@ -54,7 +57,9 @@ nav.hoofdmenu {
 /*'lingo' titel*/
 h1 {
     color: #363636;
-    font-family: " quicksandLight";
+    font-family: 'quicksandLight', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
     line-height: 1.125;
     display: flex;
     justify-content: center;
@@ -63,7 +68,9 @@ h1 {
 
 /*populaire spellen tekst*/
 h2{
-    font-family: "quicksandLight";
+    font-family: 'quicksandLight', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
     font-size: 2em;
     color:var(--main-color);
 }

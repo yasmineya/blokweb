@@ -10,29 +10,15 @@
     --secondary-background-color: rgba(26 26 26 / .75);
     --shadow-color: rgba(0 0 0 / .5);
 }
-@font-face {
-    font-family: 'MyWebFont';
-    src: url('webfont.eot'); /* IE9 Compat Modes */
-    src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-        url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
-        url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
-        url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-        url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
-}
-@font-face {
-    font-family: 'quicksandlight';
-    src: url('quicksand-variablefont_wght-webfont.woff2') format('woff2'),
-         url('quicksand-variablefont_wght-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 
-}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
 
-@import url(//fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
+
 body {
     background-color: #bee5f5;
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family:'Quicksand', sans-serif, 'Open Sans', sans-serif;
     font-weight:normal;
     font-style:normal;
 
@@ -54,7 +40,7 @@ nav.hoofdmenu {
 /*'lingo' titel*/
 h1 {
     color: #363636;
-    font-weight:normal;
+    font-weight:medium;
     font-style:normal;
     line-height: 1.125;
     display: flex;
@@ -64,7 +50,7 @@ h1 {
 
 /*populaire spellen tekst*/
 h2{
-    font-weight:normal;
+    font-weight:lighter;
     font-style:normal;
     font-size: 2em;
     color:var(--main-color);
@@ -239,6 +225,8 @@ ul#menu li a:active {
     cursor: pointer;
     justify-content: center;
     padding: 1.5em;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 /*star rating van internet*/
@@ -354,6 +342,8 @@ p{
     color: #5392e5;
     background-color: rgba(103, 181, 244, .05);
     max-width: 15em;
+    font-weight: lighter;
+
 }
 #buttonwalkthrough img {
     width: 20px;

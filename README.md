@@ -207,8 +207,14 @@ Eindresultaat:
 
 </details>
 
+## Herkansing
 
+<details open>
+<summary>uitwerken voor herkansing/aanvulling</summary>
 
+### Stand van zaken
+Ik heb de feedback verwerkt:
+<img src="images/feedback.png" width="250px" alt="feedback">
 
 
 ## Bronnenlijst

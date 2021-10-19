@@ -1,15 +1,21 @@
-var menuKnop = document.querySelector(".menuknop");
-menuKnop.addEventListener("click", veranderMenuKnop);
+var menuKnop = document.querySelector(".menuKnop");
+var menu = document.querySelector('.hamburgerMenu');
+var menuKnopAfbeelding = document.querySelector(".menuKnopAfbeelding");
 
-
-function veranderMenuKnop() {
-    let menuKnopAfbeelding = document.querySelector(".menuknopafbeelding");
-
-    if(menuKnopAfbeelding.classList.contains("open")) {
-        menuKnopAfbeelding.src="images/hamburger.png";
-        menuKnopAfbeelding.classList.toggle("open");
+menuKnop.addEventListener('click', function() {
+    if(menuKnop.classList.contains("knopactief")) {
+        menuKnop.src="images/hamburger.png";
+        menuKnop.classList.toggle('knopactief'); 
+        menu.classList.toggle('toonmenu');
     }else{
-        menuKnopAfbeelding.src="images/menu-sluiten.png";
-        menuKnopAfbeelding.classList.toggle("open");
+        menuKnop.src="images/menu-sluiten.png";
+        menuKnop.classList.toggle('knopactief'); 
+        menu.classList.toggle('toonmenu');
     }
-}
+});
+
+menuKnopParent.addEventListener('keyup', function(e){
+    if (e.keyCode === 13) {
+        menuKnop.click();
+    }
+});  

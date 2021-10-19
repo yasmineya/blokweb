@@ -1,3 +1,9 @@
+/* Font importeren voordat iets anders gedaan wordt*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
+
+
 /* CSS Document */
 *,*::after,*::before {
     box-sizing: border-box;
@@ -10,10 +16,6 @@
     --secondary-background-color: rgba(26 26 26 / .75);
     --shadow-color: rgba(0 0 0 / .5);
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
 
 body {
     background-color: #bee5f5;
@@ -77,13 +79,11 @@ main section ul {
     grid-gap: 1em;
 }
 main section ul li a img {
-    box-shadow: 1px 2px 6px 2px;
     border-radius: 25px 20px 0px 0px;
     color: #333;
 }
 main section ul li a h3 {
-    background-color: var(--accent-background-color);
-    color: var(--accent-color);
+    background-color: white;
     font-size: .8em;
     font-weight: bold;
     text-align: center;
@@ -92,13 +92,23 @@ main section ul li a h3 {
     color: #4a4a4a;
     justify-content: center;
     margin:0;
-    box-shadow: 1px 2px 6px 2px;
+  box-shadow: 4px 4px 20px 0 rgb(10 148 228 / 50%);
+
+    -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  /* and now for the proper property */
+  transition: 0.3s;
 }
 main a:hover {
     box-shadow: 1px 2px 6px 7px;
     border-radius: 25px 20px 25px 25px;
     color: rgb(235, 244, 103);
     border-color: rgb(235, 244, 103);
+}
+main section ul li a h3:hover{
+ background-color: rgb(235, 244, 103);
 }
 main a:active, #buttonwalkthrough:hover {
     cursor: pointer;
@@ -110,7 +120,7 @@ section.maingame {
 /* stukje tekst home button en tekst onder header*/
 ul.menunav {
     color: black; 
- }
+}
 .menunav {
     display: flex;
     flex-direction: row;
@@ -125,31 +135,20 @@ ul.menunav {
 }
 
 /*burgermenu button*/
-#hamburgermenu {
-    display: block;
+.hamburgerMenu {
     position: relative;
-    z-index: 1;
-}
-#hamburgermenu input {
-    display: block;
-    width: 40px;
-    height: 32px;
-    position: absolute;
-    cursor: pointer;
+    padding:0;
+    margin:0;
     opacity: 0;
-    z-index: 2;
-}
-#hamburgermenu input:checked ~ ul {
-    transform: none;
-}
-#hamburgermenu img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    position: relative;
-    z-index: 1;
+    transition: opacity 400ms 0ms;
+    visibility:hidden;
 }
 
+.hamburgerMenu.toonmenu{
+    opacity: 1;
+    transition: opacity 600ms 0ms;
+    visibility:visible;
+}
 
 /*#menu = menu in de hamburgermenu*/
 #menu {
@@ -157,8 +156,6 @@ ul.menunav {
     width: 300px;
     margin:auto;
     list-style-type: none;
-    transform-origin: 0% 0%;
-    transform: translate(-100%, 0);
     background-color:white;
     height:100vh;
 }
@@ -175,7 +172,7 @@ ul#menu li a, #buttonwalkthrough {
 }
 ul#menu {
     padding: 1em;
-    background: linear-gradient(0deg,  #d0dfe1, #00bbd4b7);
+    background: linear-gradient(0deg,  #d0dfe1, #00bbd4);
 }
 ul#menu li a {
     width:100%;
@@ -348,6 +345,7 @@ p{
 #buttonwalkthrough img {
     width: 20px;
     height: auto;
+    margin: 0 0.5em;
 }
 
 /*tekst <p> plus walkthrough button*/

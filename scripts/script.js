@@ -4,7 +4,7 @@ var menuKnopAfbeelding = document.querySelector(".menuKnopAfbeelding");
 
 menuKnop.addEventListener('click', function() {
     if(menuKnop.classList.contains("knopactief")) {
-        menuKnop.src="images/hamburger.png";
+        menuKnopAfbeelding.src="images/hamburger.png";
         menuKnop.classList.toggle('knopactief'); 
         menu.classList.toggle('toonmenu');
     }else{
